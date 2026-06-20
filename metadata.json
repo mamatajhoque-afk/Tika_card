@@ -1,0 +1,6 @@
+{
+  "name": "Tika Card",
+  "description": "National Digital Health Service Platform of Bangladesh - Every Citizen, Every Vaccine, Every Health Record, One Secure Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
